@@ -1,3 +1,6 @@
+.deployment
+.vscode/
+
 # Logs
 logs
 *.log
